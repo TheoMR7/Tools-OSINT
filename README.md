@@ -1,11 +1,37 @@
-Option 1 : Directe et percutante (Ma recommandation)
+# 🕵️‍♂️ Tools-OSINT
 
-    🕵️‍♂️ Conçu par Théo, futur expert en cybersécurité. Cet outil OSINT en Python automatise la reconnaissance, l'investigation numérique et la collecte de données avancée. 🚀 Un script performant et précis, pensé pour les défis de la Red/Blue Team. Bienvenue dans mon arsenal ! 💻🔥
+Bienvenue dans mon arsenal ! 💻🔥
 
-Option 2 : Plus technique et orientée "Pentest"
+Outil OSINT 100% Python développé par Théo, futur expert en cybersécurité et passionné de Pentest. Ce script a été pensé pour automatiser la reconnaissance, l'investigation numérique et la collecte de données avancée. Un condensé de mes compétences réseau et développement Python, idéal pour relever les défis de la Red/Blue Team.
 
-    🚀 Développé par Théo, passionné de Pentest & Sécurité Offensive. Ce repo héberge mon outil d'investigation sur-mesure : collecte d'informations, mapping d'infrastructures et analyse de cibles. 🔍 Un projet pointu démontrant mon savoir-faire en OSINT et développement Python. 🛡️
+## 🚀 Fonctionnalités
+* Automatisation de la collecte d'informations (OSINT).
+* Profilage et reconnaissance ciblée.
+* Script léger, rapide et facilement déployable.
 
-Option 3 : Mystérieuse et professionnelle
+## ⚙️ Comment l'installer sur votre environnement
 
-    👁️‍🗨️ L'information est une arme. Ce repo contient mon outil OSINT personnel (développé en Python par Théo). Ses fonctions : automatisation de la collecte de données, profilage et reconnaissance réseau. ⚙️ Un condensé de mes compétences en cybersécurité à disposition de la communauté. 🌐
+Voici les étapes simples pour déployer cet outil sur votre machine locale (Linux, macOS ou Windows) :
+
+**1. Cloner le dépôt**
+Ouvrez votre terminal et exécutez la commande suivante :
+```bash
+git clone [https://github.com/TheoMR7/Tools-OSINT.git](https://github.com/TheoMR7/Tools-OSINT.git)
+
+2. Accéder au répertoire du projet
+Bash
+
+cd Tools-OSINT
+
+3. Installer les prérequis
+(Si votre script utilise des bibliothèques externes, assurez-vous d'avoir Python d'installé)
+Bash
+
+pip install -r requirements.txt
+
+4. Lancer l'outil
+Bash
+
+python3 whoiam.py
+
+🛡️ Avertissement : Ce projet a été développé à des fins éducatives et d'audit de sécurité. L'utilisation de cet outil sur des infrastructures sans autorisation explicite est strictement interdite.
